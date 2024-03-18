@@ -1,0 +1,28 @@
+1.
+Over the course of the past year, I worked on CDPM project which involved data engineering, Java Development and Python development tasks.
+I initially worked on to set up Kafka producer while using Schema Registry for data validation. As the project unfolded, I transitioned into Python development for a QA Automation framework, showcasing a keen ability to create and implement automated testing solutions. The robust QA framework contributed significantly contributed to the reliability and resilience of the applications we were developing.
+Then I ventured into Java development, further enhancing my programming skills and contributing to the versatility of my role. This adaptability underscored my commitment to understanding and contributing to the project in a holistic manner. Beyond the technical realm, I took a proactive stance in problem-solving, identifying and resolving blockers promptly to ensure an uninterrupted workflow. This significantly contributed to the overall efficiency of the project.
+Collaborating seamlessly across disciplines, I actively engaged in data engineering, Java development and Python development tasks as needed. This cross-functional collaboration created an environment to resolve issues in a collective manner. Timely task completion became a hallmark of my work, contributing to the overall efficiency of the project and aligning with our adherence to project timelines.
+I actively embraced opportunities for learning, particularly in mastering cloud concepts and worked with Azure cloud for Application development. In summary, my contributions over the past year reflect a comprehensive and impactful journey, from data engineering to adaptable development, collaborative problem-solving, a diverse skill set, and a commitment to continuous learning.
+
+2. 
+Over the past year, my impactful contributions to the team have been centered around my willingness to offer assistance for collaborative work culture.I provided support to my teammates when they encountered challenges especially while developing QA Automation framework. I consistently stood ready to address issues.
+I made my working hours flexible as per the team's requirements.
+I consistently participated in project-releated team meetings. I actively engaged with team members, encouraging open communication and the exchange of ideas.
+Additionally, I consistently had conversations with the Product Owner, discussing tasks and strategies to enhance the overall efficiency of our deliverables.
+In summary, my contributions over the past year have been characterized by a hands-on and supportive approach, actively participating in team activities, and maintaining open communication channels. While my role may not have included leading certain initiatives, my commitment to collaboration, flexibility, and a positive team culture remains a constant throughout my contributions.
+
+3.
+Over the past year, I have expanded my expertise by obtaining the Google Cloud Digital Leader  and AWS Certified Security - Specialty certification.
+I worked with new technologies such as Kafka, Mongo DB gaining hands-on experience with these powerful tools. Working with both Java and Python, I further strengthened my programming proficiency.
+A significant portion of my growth has been in cloud computing, particularly in the Azure ecosystem. I engaged with a multitude of services such as Storage Accounts, Azure App Functions, App Configuration, Event Hub, Schema Registry, Kubernetes, Azure DevOps, Azure Data Factory, and Azure API Management. I have deepened my understanding of network architecture and infrastructure in cloud environments by learning cloud concepts such as Vnet, Subnets, and Virtual Machines.
+Beyond the technical realm, my interpersonal and collaboration skills have been improved by proactively participating in various team activities.
+
+4.
+Reflecting on the past year, I recognize the need for further development in the areas of System Design, deeper exploration of cloud concepts, and expanding my proficiency in Java.
+In terms of system design, I would like to enhance my skills in architecting robust and scalable solutions. This involves delving into more advanced design patterns, understanding trade-offs, and incorporating best practices for optimizing system performance.
+Regarding cloud concepts, while I've gained experience with services, I acknowledge that there's always more to explore. I would like to deepen my understanding of advanced cloud services and emerging technologies.
+Expanding my proficiency in Java is another key goal for the coming year. This involves staying current with the latest Java features, design patterns, and best practices.
+
+5.
+In the coming years, I aspire to maximize my contributions, aiming for career growth aligned with organizational objectives. My goal is to attain a position where I can leverage enhanced knowledge and skills to make effective decisions, ultimately driving the achievement of organizational goals.
